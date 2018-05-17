@@ -2,19 +2,19 @@
 
 I am Software Engineer with 6 Years of experinece. I am keen to interest in get hands dirty on different technology and innovation. 
 
-### Markdown
+### Expertise
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Web 
+Mobile          
+Windows
 
 ```markdown
-Syntax highlighted code block
+Highlights so far.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- B1 Visa till 2026.
+- https://stackoverflow.com/users/4115956/mohsin-khan
+- Mentro for few IT course training project
+- Worked as part time Radio Jockey.
 
 1. Numbered
 2. List
