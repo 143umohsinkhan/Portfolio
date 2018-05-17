@@ -4,9 +4,9 @@ I am Software Engineer with 6 Years of experinece. I am keen to interest in get 
 
 ### Expertise
 
-Web 
-Mobile          
-Windows
+Web. 
+Mobile.          
+Windows.
 
 ```markdown
 Highlights so far.
